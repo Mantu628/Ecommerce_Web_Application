@@ -1,6 +1,6 @@
 import "./Navbar.css";
 import SearchBar from "../searchBar/SearchBar";
-import Logo from "../../assets/images/ezbuy-logo.png";
+import Logo from "../../assets/images/Dove.jpg";
 import { Link, useNavigate } from "react-router-dom";
 import { HiUser } from "react-icons/hi";
 import { useSelector } from "react-redux";
