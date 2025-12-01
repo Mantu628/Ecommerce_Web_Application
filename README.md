@@ -1,10 +1,10 @@
-# ezBuy E-Commerce ReactMarket
+# Done E-Commerce ReactMarket
 
-Welcome to ezBuy E-Commerce ReactMarket! This project is a full-fledged e-commerce platform built using React, Vite, Redux, Firebase, JavaScript, CSS, and HTML.
+Welcome to Done E-Commerce! This project is a full-fledged e-commerce platform built using React, Vite, Redux, Firebase, JavaScript, CSS, and HTML.
 
 ## Table of Contents
 
-1. [ezBuy E-Commerce ReactMarket](#ezbuy-e-commerce-reactmarket)
+1. [Done E-Commerce ReactMarket](#Done-e-commerce-reactmarket)
 2. [Demo](#demo)
 3. [Features](#features)
    - [CRUD Operations](#crud-operations)
@@ -23,7 +23,7 @@ Welcome to ezBuy E-Commerce ReactMarket! This project is a full-fledged e-commer
 
 ## Demo
 
-Check out the live demo of ezBuy E-Commerce ReactMarket [here](https://ecommerce-web-applicati0n.netlify.app/)!
+Check out the live demo of Done E-Commerce ReactMarket [here](https://ecommerce-web-application-ten.vercel.app/)!
 
 ## Features
 
@@ -44,12 +44,12 @@ Check out the live demo of ezBuy E-Commerce ReactMarket [here](https://ecommerce
 
 ## Live Links
 
-- **Demo**: [ezBuy E-Commerce ReactMarket](https://ecommerce-web-applicati0n.netlify.app/)
-- **GitHub Repository**: [ezBuy Repository](https://github.com/Mantu628/Ecommerce_Web_Application)
+- **Demo**: [Done E-Commerce ReactMarket](https://ecommerce-web-application-ten.vercel.app/)
+- **GitHub Repository**: [Done Repository](https://github.com/Mantu628/Ecommerce_Web_Application)
 
 ## What I Learned
 
-Throughout the development of ezBuy E-Commerce ReactMarket, I gained valuable experience in:
+Throughout the development of Done E-Commerce ReactMarket, I gained valuable experience in:
 
 - Implementing a full-stack e-commerce solution using React and Firebase.
 - Leveraging Redux for state management, enabling seamless data flow within the application.
@@ -70,4 +70,4 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 
 ---
 
-Happy shopping with ezBuy E-Commerce ReactMarket! 🛍️🚀
+Happy shopping with Done E-Commerce ReactMarket! 🛍️🚀
