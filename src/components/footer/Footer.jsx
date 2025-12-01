@@ -1,5 +1,5 @@
 import "./Footer.css";
-import Logo from "../../assets/images/ezbuy-logo.png";
+import Logo from "../../assets/images/Done.eps";
 import { FaXTwitter, FaGithub, FaLinkedinIn } from "react-icons/fa6";
 
 const Footer = () => {
@@ -11,7 +11,7 @@ const Footer = () => {
             <img src={Logo} alt="logo" />
           </div>
           <h2></h2>
-          <p>&copy; 2024 @ezBuy</p>
+          <p>&copy; 2025 @Done</p>
         </div>
         <div class="social-icons">
           <ul>

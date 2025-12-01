@@ -70,4 +70,4 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 
 ---
 
-Happy shopping with Done E-Commerce ReactMarket! 🛍️🚀
+Happy shopping with Done E-Commerce ! 🛍️🚀
